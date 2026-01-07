@@ -6,8 +6,8 @@
     "lessons": [
       {
         "number": 1,
-        "title": "First test lesson",
-        "readableId": "first-test-lesson"
+        "title": "Латинский алфавит. Произношение. Варианты произношений.",
+        "readableId": "alphabet"
       },
       {
         "number": 2,
