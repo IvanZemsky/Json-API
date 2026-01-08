@@ -11,13 +11,18 @@
       },
       {
         "number": 2,
-        "title": "Second test lesson",
-        "readableId": "second-test-lesson"
+        "title": "Первое склонение. Единственное и множественное число. Первое спряжение, настоящее время.",
+        "readableId": "first-declension-singular-and-plural-first-conjugation-present"
       },
       {
         "number": 3,
-        "title": "Third test lesson",
-        "readableId": "third-test-lesson"
+        "title": "Второе склонение - единственное число",
+        "readableId": "second-declension-singular"
+      },
+      {
+        "number": 4,
+        "title": "Второе склонение - множественное число",
+        "readableId": "second-declension-plural"
       }
     ]
   },
