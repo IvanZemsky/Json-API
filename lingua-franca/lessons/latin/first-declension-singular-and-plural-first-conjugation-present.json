@@ -7,32 +7,16 @@
   "nextLessonReadableId": "second-test-lesson",
   "content": [
     {
-      "id": "lesson2_subheading_2",
-      "lessonId": "lesson2",
-      "numberInLesson": "1",
-      "type": "subheading",
-      "text": "Общие правила падежей",
-      "level": 1
-    },
-    {
       "id": "lesson2_paragraph_1",
       "lessonId": "lesson2",
-      "numberInLesson": "2",
+      "numberInLesson": "1",
       "type": "paragraph",
       "text": "В латинском языке, как и в русском, падеж показывает роль существительного в предложении (подлежащее, дополнение, обстоятельство и т.д.). Падеж определяется по окончанию слова. Всего в латыни 6 падежей."
     },
     {
-      "id": "lesson2_subheading_3",
+      "id": "lesson2_subheading_1",
       "lessonId": "lesson2",
-      "numberInLesson": "3",
-      "type": "subheading",
-      "text": "Падежная система латыни",
-      "level": 2
-    },
-    {
-      "id": "lesson2_subheading_4",
-      "lessonId": "lesson2",
-      "numberInLesson": "4",
+      "numberInLesson": "2",
       "type": "subheading",
       "text": "Таблица падежей с вопросами",
       "level": 3
@@ -40,7 +24,7 @@
     {
       "id": "lesson2_table_1",
       "lessonId": "lesson2",
-      "numberInLesson": "5",
+      "numberInLesson": "3",
       "type": "table",
       "variant": "vertical",
       "title": "Падежи латинского языка",
@@ -65,14 +49,14 @@
     {
       "id": "lesson2_paragraph_2",
       "lessonId": "lesson2",
-      "numberInLesson": "6",
+      "numberInLesson": "4",
       "type": "paragraph",
       "text": "Примечание: Аблатив (Abl.) в латыни объединяет значения нескольких русских падежей и часто используется с предлогами."
     },
     {
-      "id": "lesson2_subheading_5",
+      "id": "lesson2_subheading_2",
       "lessonId": "lesson2",
-      "numberInLesson": "7",
+      "numberInLesson": "5",
       "type": "subheading",
       "text": "Первое склонение (склонение на -a)",
       "level": 1
@@ -80,14 +64,14 @@
     {
       "id": "lesson2_paragraph_3",
       "lessonId": "lesson2",
-      "numberInLesson": "8",
+      "numberInLesson": "6",
       "type": "paragraph",
       "text": "К первому склонению относятся существительные женского (реже мужского) рода с окончанием -a в именительном падеже единственного числа. Пример: rosa, rosae (f.) — роза."
     },
     {
-      "id": "lesson2_subheading_6",
+      "id": "lesson2_subheading_3",
       "lessonId": "lesson2",
-      "numberInLesson": "9",
+      "numberInLesson": "7",
       "type": "subheading",
       "text": "Таблица склонения слова ROSA",
       "level": 3
@@ -95,7 +79,7 @@
     {
       "id": "lesson2_table_2",
       "lessonId": "lesson2",
-      "numberInLesson": "10",
+      "numberInLesson": "8",
       "type": "table",
       "variant": "vertical",
       "title": "Склонение rosa, rosae f. (роза)",
@@ -112,14 +96,14 @@
     {
       "id": "lesson2_paragraph_4",
       "lessonId": "lesson2",
-      "numberInLesson": "11",
+      "numberInLesson": "9",
       "type": "paragraph",
       "text": "Как читать таблицу: Окончания выделены жирным. Чтобы просклонять любое слово I склонения (например, puella — девочка), нужно отбросить окончание Nom. Sing. -a и добавить окончания из таблицы: puella, puellae, puellam, puellā, puellae..."
     },
     {
-      "id": "lesson2_subheading_7",
+      "id": "lesson2_subheading_4",
       "lessonId": "lesson2",
-      "numberInLesson": "12",
+      "numberInLesson": "10",
       "type": "subheading",
       "text": "Первое спряжение глаголов. Настоящее время",
       "level": 1
@@ -127,14 +111,14 @@
     {
       "id": "lesson2_paragraph_5",
       "lessonId": "lesson2",
-      "numberInLesson": "13",
+      "numberInLesson": "11",
       "type": "paragraph",
       "text": "К первому спряжению относятся глаголы с основой на -ā. Пример: amāre — любить. Личные окончания настоящего времени одинаковы для всех спряжений."
     },
     {
-      "id": "lesson2_subheading_8",
+      "id": "lesson2_subheading_5",
       "lessonId": "lesson2",
-      "numberInLesson": "14",
+      "numberInLesson": "12",
       "type": "subheading",
       "text": "Таблица спряжения глагола AMARE в настоящем времени",
       "level": 3
@@ -142,7 +126,7 @@
     {
       "id": "lesson2_table_3",
       "lessonId": "lesson2",
-      "numberInLesson": "15",
+      "numberInLesson": "13",
       "type": "table",
       "variant": "vertical",
       "title": "Спряжение amō, amāre (любить)",
@@ -159,14 +143,14 @@
     {
       "id": "lesson2_paragraph_6",
       "lessonId": "lesson2",
-      "numberInLesson": "16",
+      "numberInLesson": "14",
       "type": "paragraph",
       "text": "Правило образования: Отбросить неопределённую форму -re, получить основу настоящего времени (amā-), к которой добавить личные окончания."
     },
     {
-      "id": "lesson2_subheading_9",
+      "id": "lesson2_subheading_6",
       "lessonId": "lesson2",
-      "numberInLesson": "17",
+      "numberInLesson": "15",
       "type": "subheading",
       "text": "Примеры предложений",
       "level": 2
@@ -174,14 +158,14 @@
     {
       "id": "lesson2_paragraph_7",
       "lessonId": "lesson2",
-      "numberInLesson": "18",
+      "numberInLesson": "16",
       "type": "paragraph",
       "text": "1. Rosam puella dat. — Девочка даёт розу. (rosa в Acc. Sing., puella в Nom. Sing.)\n2. Puellae rosas amant. — Девочки любят розы. (puellae в Nom. Pl., rosas в Acc. Pl.)\n3. Agricola in rosā habitat. — Земледелец живёт среди роз. (rosa в Abl. Sing. с предлогом in)"
     },
     {
       "id": "lesson2_note_1",
       "lessonId": "lesson2",
-      "numberInLesson": "19",
+      "numberInLesson": "17",
       "type": "note",
       "title": "Обратите внимание",
       "text": "Для I склонения в родительном падеже множественного числа характерно окончание -ārum. Для I спряжения в 1 лице единственного числа личное окончание -ō присоединяется непосредственно к основе, вытесняя гласную -ā."
