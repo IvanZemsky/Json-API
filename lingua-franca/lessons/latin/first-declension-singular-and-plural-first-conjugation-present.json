@@ -81,7 +81,7 @@
       "lessonId": "lesson2",
       "numberInLesson": "8",
       "type": "table",
-      "variant": "vertical",
+      "variant": "intersecting",
       "title": "Склонение rosa, rosae f. (роза)",
       "headers": ["Падеж", "Единственное число", "Множественное число"],
       "rows": [
