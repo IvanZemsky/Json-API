@@ -28,11 +28,7 @@
       "type": "table",
       "variant": "vertical",
       "title": "Падежи латинского языка",
-      "headers": [
-        "Падеж (сокращение)",
-        "Перевод на русский",
-        "Вопросы (примерно)"
-      ],
+      "headers": ["Падеж", "Перевод на русский", "Вопросы (примерно)"],
       "rows": [
         ["Nom. (Nominativus)", "Именительный", "Кто? Что?"],
         ["Gen. (Genetivus)", "Родительный", "Кого? Чего?"],
@@ -148,9 +144,23 @@
       "text": "Правило образования: Отбросить неопределённую форму -re, получить основу настоящего времени (amā-), к которой добавить личные окончания."
     },
     {
-      "id": "lesson2_subheading_6",
+      "id": "lesson2_table_4",
       "lessonId": "lesson2",
       "numberInLesson": "15",
+      "type": "table",
+      "variant": "vertical",
+      "title": "Спряжение amō, amāre (любить)",
+      "headers": ["Лицо", "Singularis", "Pluralis"],
+      "rows": [
+        ["1", "-ō", "-mus"],
+        ["2", "-s", "-tis"],
+        ["3", "-t", "-nt"]
+      ]
+    },
+    {
+      "id": "lesson2_subheading_6",
+      "lessonId": "lesson2",
+      "numberInLesson": "16",
       "type": "subheading",
       "text": "Примеры предложений",
       "level": 2
@@ -158,14 +168,14 @@
     {
       "id": "lesson2_paragraph_7",
       "lessonId": "lesson2",
-      "numberInLesson": "16",
+      "numberInLesson": "17",
       "type": "paragraph",
       "text": "1. Rosam puella dat. — Девочка даёт розу. (rosa в Acc. Sing., puella в Nom. Sing.)\n2. Puellae rosas amant. — Девочки любят розы. (puellae в Nom. Pl., rosas в Acc. Pl.)\n3. Agricola in rosā habitat. — Земледелец живёт среди роз. (rosa в Abl. Sing. с предлогом in)"
     },
     {
       "id": "lesson2_note_1",
       "lessonId": "lesson2",
-      "numberInLesson": "17",
+      "numberInLesson": "18",
       "type": "note",
       "title": "Обратите внимание",
       "text": "Для I склонения в родительном падеже множественного числа характерно окончание -ārum. Для I спряжения в 1 лице единственного числа личное окончание -ō присоединяется непосредственно к основе, вытесняя гласную -ā."
