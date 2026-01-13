@@ -148,8 +148,8 @@
       "lessonId": "lesson2",
       "numberInLesson": "15",
       "type": "table",
-      "variant": "vertical",
-      "title": "Спряжение amō, amāre (любить)",
+      "variant": "intersecting",
+      "title": "Окончания глаголов почти всех спряжений почти во всех временах",
       "headers": ["Лицо", "Singularis", "Pluralis"],
       "rows": [
         ["1", "-ō", "-mus"],
