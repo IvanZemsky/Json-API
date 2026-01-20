@@ -1,50 +1,54 @@
-[
-  {
-    "number": 1,
-    "title": "Основы",
-    "bookName": "latin",
-    "lessons": [
-      {
-        "number": 1,
-        "title": "Латинский алфавит. Произношение. Варианты произношений.",
-        "readableId": "alphabet"
-      },
-      {
-        "number": 2,
-        "title": "Первое склонение. Единственное и множественное число. Первое спряжение, настоящее время.",
-        "readableId": "first-declension-singular-and-plural-first-conjugation-present"
-      },
-      {
-        "number": 3,
-        "title": "Второе склонение - единственное число",
-        "readableId": "second-declension-singular"
-      },
-      {
-        "number": 4,
-        "title": "Второе склонение - множественное число",
-        "readableId": "second-declension-plural"
-      }
-    ]
-  },
-  {
-    "number": 2,
-    "title": "Advanced",
-    "lessons": [
-      {
-        "number": 4,
-        "title": "First test lesson",
-        "readableId": "first-test-lesson"
-      },
-      {
-        "number": 5,
-        "title": "Second test lesson",
-        "readableId": "second-test-lesson"
-      },
-      {
-        "number": 6,
-        "title": "Third test lesson",
-        "readableId": "third-test-lesson"
-      }
-    ]
-  }
-]
+{
+  "bookId": "latin",
+  "bookTitle": "Латинский язык",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Основы",
+      "bookName": "latin",
+      "lessons": [
+        {
+          "number": 1,
+          "title": "Латинский алфавит. Произношение. Варианты произношений.",
+          "readableId": "alphabet"
+        },
+        {
+          "number": 2,
+          "title": "Первое склонение. Единственное и множественное число. Первое спряжение, настоящее время.",
+          "readableId": "first-declension-singular-and-plural-first-conjugation-present"
+        },
+        {
+          "number": 3,
+          "title": "Второе склонение - единственное число",
+          "readableId": "second-declension-singular"
+        },
+        {
+          "number": 4,
+          "title": "Второе склонение - множественное число",
+          "readableId": "second-declension-plural"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Advanced",
+      "lessons": [
+        {
+          "number": 4,
+          "title": "First test lesson",
+          "readableId": "first-test-lesson"
+        },
+        {
+          "number": 5,
+          "title": "Second test lesson",
+          "readableId": "second-test-lesson"
+        },
+        {
+          "number": 6,
+          "title": "Third test lesson",
+          "readableId": "third-test-lesson"
+        }
+      ]
+    }
+  ]
+}
